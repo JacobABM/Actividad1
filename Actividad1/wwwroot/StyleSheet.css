@@ -1,0 +1,46 @@
+﻿body {
+    margin: auto;
+    padding: 5px;
+    width: 770px;
+    height: 595px;
+    background-color:lightgray;
+}
+
+header {
+    height: 70px;
+    width: 770px;
+    margin-bottom: 10px;
+    padding-left:250px;
+}
+
+header h3 {
+        color: gray;
+        text-transform: uppercase;
+        letter-spacing: 10px;
+    }
+
+#photo {
+    border: 7px solid white;
+    width: 240px;
+    height: 240px;
+    margin-bottom: 10px;
+}
+
+img {
+    width: 240px;
+    height: 240px;
+}
+
+#area1, #area2, #area3, #area4 {
+    border: 5px solid white;
+    width: 300px;
+    height: 60px;
+    float: left;
+    padding-left:5px;
+}
+
+figure{
+    float:left;
+}
+
+
